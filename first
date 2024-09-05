@@ -1,0 +1,6 @@
+a = "Hello world"
+b = "Illin Oleksandr"
+c = "17 років"
+print(a)
+print(b)
+print(c)
