@@ -1,6 +1,8 @@
 a = "Hello world"
-b = "Illin Oleksandr"
-c = "17 років"
+b = "Illin"
+c = "Oleksandr"
+d = "17 років"
 print(a)
 print(b)
 print(c)
+print(d)
