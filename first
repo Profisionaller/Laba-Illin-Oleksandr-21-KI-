@@ -6,3 +6,4 @@ print(a)
 print(b)
 print(c)
 print(d)
+print("Зміна A B C мають тип string""змінна d має тип int" 
