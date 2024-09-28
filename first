@@ -1,7 +1,7 @@
 a = "Hello world"
 b = "Illin"
 c = "Oleksandr"
-d = 17 років
+d = 17
 print(a)
 print(b)
 print(c)
