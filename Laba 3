@@ -1,0 +1,12 @@
+dict1 = {1:"Roblox", 2:"Dota 2", 3:{3.1: "Crysis", 3.2: "Call of duty", 3.3: "Minecraft", 3.4: "Dark and Darker", 3.5: "Diablo 4"}, 4: "WOW"}
+print(dict1)
+dict_types = {}
+for key in dict1:
+    val = dict1[key]
+    if type(val) == dict:
+        for sub_key in val:
+            sub_val = val[sub_key]  
+            dict_types[sub_key] = type(sub_val)  
+    else:
+        dict_types[key] = type(val)
+print(dict_types)
