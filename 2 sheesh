@@ -1,6 +1,6 @@
 a = "Dota 2"
 b = 2024
-c = 3.14
+c = 6.66
 d = [1, 2, 3]
 e = {'key': 'value'}
 values = [a, b, c, d, e]
